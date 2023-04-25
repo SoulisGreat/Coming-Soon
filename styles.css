@@ -1,0 +1,22 @@
+
+
+    body {background-color: rgb(0, 0, 0);}
+
+      img {
+
+        width: fit-content;
+      
+      }
+
+      image {
+
+        width: 200px;
+      
+      }
+
+      main {
+        max-width: fit-content;
+        margin-left: fit-content;
+        margin-right: fit-content;
+      }
+  
