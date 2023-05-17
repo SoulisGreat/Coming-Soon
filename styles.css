@@ -19,4 +19,5 @@
         margin-left: fit-content;
         margin-right: fit-content;
       }
-  
+   body { cursor:url('images/cursor.png'), default; 
+  }
